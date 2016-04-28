@@ -1,0 +1,12 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\bin\Debug\ReplaceATag.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache

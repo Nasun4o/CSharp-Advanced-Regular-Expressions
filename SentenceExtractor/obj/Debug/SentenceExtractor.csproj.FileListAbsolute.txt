@@ -1,0 +1,9 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\bin\Debug\SentenceExtractor.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\bin\Debug\SentenceExtractor.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\obj\Debug\SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\SentenceExtractor\obj\Debug\SentenceExtractor.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\SentenceExtractor\obj\Debug\SentenceExtractor.pdb

@@ -1,0 +1,12 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\bin\Debug\ExtractEmails.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Regular Expressions\RegexHomeWork\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
